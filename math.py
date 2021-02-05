@@ -8,7 +8,7 @@ def mul(x,y):
 	return x*y
 
 def div(x,y):
-	pass
+	return x/y
 
 def mis(x,y):
 	return 2*5
